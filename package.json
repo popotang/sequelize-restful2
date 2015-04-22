@@ -1,16 +1,16 @@
 {
-  "name": "sequelize-restful",
-  "version": "0.4.2",
-  "description": "A connect module that adds a restful API for all defined models to your application.",
+  "name": "sequelize-restful2",
+  "version": "0.2.1",
+  "description": "A connect module that adds a restful API for all defined models to your application. update by popotang",
   "main": "lib/index.js",
   "scripts": {
     "test": "node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sequelize/sequelize-restful.git"
+    "url": "https://github.com/popotang/sequelize-restful2.git"
   },
-  "author": "",
+  "author": "popotang",
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
